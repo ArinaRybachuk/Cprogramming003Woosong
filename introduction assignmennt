@@ -1,0 +1,11 @@
+#include <stdio.h>
+
+int main(void) {
+   printf("Arina, ");
+   printf("Rybachuk, ");
+   printf("202412387, ");
+   printf("GCM, ");
+   printf("I know two programming languages\n" );
+   
+   return 0;
+}
